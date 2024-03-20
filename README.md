@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Manuella
 
-<!--
-**manuvaladares/manuvaladares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const manuella = {
+    pronouns: "She" | "Her",
+    study: "Software Engineering",
+    projects: ["baitts", "meninas.comp"]
+    code: ["Javascript", "Python", "Java", "HTML5", "CSS3"],
+    askMeAbout: ["design", "girly things", "front-end", "coffee"],
+    technologies: {
+        frontEnd: ["Next.js", "HTML5", "CSS3"],
+        design-UIUX: "Figma"
+    },
+    currentFocus: "make convincing codes",
+    funFact: "I wore a plastic crown every day when I was a kid"
+};
+```
