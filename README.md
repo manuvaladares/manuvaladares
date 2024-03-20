@@ -7,7 +7,7 @@
 const manuella = {
     pronouns: "She" | "Her",
     study: "Software Engineering",
-    projects: ["baitts", "meninas.comp"]
+    projects: ["baitts", "meninas.comp"],
     code: ["Javascript", "Python", "Java", "HTML5", "CSS3"],
     askMeAbout: ["design", "girly things", "front-end", "coffee"],
     technologies: {
