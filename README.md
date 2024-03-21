@@ -18,3 +18,5 @@ const manuella = {
     funFact: "I wore a plastic crown every day when I was a kid"
 };
 ```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
