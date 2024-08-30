@@ -1,22 +1,21 @@
 ## Hi, I'm Manuella
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const manuella = {
     pronouns: "She" | "Her",
-    study: "Software Engineering",
-    projects: ["baitts", "meninas.comp"],
-    code: ["Javascript", "Python", "Java", "HTML5", "CSS3"],
-    askMeAbout: ["design", "girly things", "front-end", "coffee"],
+    study: "Software Engineering at UnB",
+    projects: ["baitts", "meninas.comp", "Minas de Cultura"],
+    code: ["Javascript", "Python", "Java", "HTML5", "CSS3", "C"],
+    askMeAbout: ["accessibility", "design", "front-end", "data science", "coffee"],
     technologies: {
-        frontEnd: ["Next.js", "HTML5", "CSS3"],
-        design-UIUX: "Figma"
+        frontEnd: ["Next.js", "React", "HTML5", "CSS3"],
+        design_UIUX: "Figma",
+        dataAnalysis: ["Pandas", "Streamlit"],
+        webScraping: "Selenium"
     },
-    currentFocus: "make convincing codes",
+    currentFocus: "academic research in digital accessibility",
     funFact: "I wore a plastic crown every day when I was a kid"
 };
-```
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
