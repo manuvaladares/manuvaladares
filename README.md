@@ -112,14 +112,13 @@ Sou estudante de Engenharia de Software na Universidade de Brasília (UnB), apai
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" 
 />
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=manuvaladares&count_private=true&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
   />
@@ -127,7 +126,7 @@ Sou estudante de Engenharia de Software na Universidade de Brasília (UnB), apai
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="100" 
       src="https://github-readme-streak-stats-salesp07.vercel.app/?user=manuvaladares&count_private=true&theme=react" alt="streak stats"
   />
 
