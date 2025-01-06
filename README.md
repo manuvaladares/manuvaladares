@@ -118,14 +118,11 @@ Sou estudante de Engenharia de Software na Universidade de Brasília (UnB), apai
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=manuvaladares&count_private=true&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
   />
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuvaladares&theme=react&layout=compact&count_private=true&custom_title=Tecnologias&langs_count=9" 
   />
 
